@@ -16,5 +16,13 @@ BoyYoureTurningMe
 
 is all about I/O as the title may suggest
 
- - *PigLatinizer* transforms an english phrase to it's simplified piglatin
+ - *PigLatinizer* transforms an English phrase to it's simplified pig-latin
    pendant
+
+DataStructures
+--------------
+
+is all about data structures - coming from a haskell background, I like the
+generics
+
+ - *MyList* is a list interface and *ConsList* is one possible implementation
